@@ -9,6 +9,7 @@ Desenvolvedora de software, cursando Análise e Desenvolvimento de Sistemas (UNI
 **Frontend** — TypeScript, React, Next.js, Tailwind CSS
 **Backend** — Node.js, NestJS, Fastify, Zod
 **Banco de dados** — PostgreSQL, Prisma, Supabase
+**IA** — Integração com LLMs (Anthropic Claude), prompt engineering, RAG, agentes especializados
 **Outras** — Git, testes automatizados (Vitest, Playwright)
 
 ## Como trabalho
