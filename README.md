@@ -37,4 +37,4 @@ Organizo os projetos em camadas (domínio, aplicação, infraestrutura), aplican
 ## Contato
 
 Sistemas sob medida: [rafaele-sistemas.vercel.app](https://rafaele-sistemas.vercel.app)
-E-mail: contato.rafaeleprojects@gmail.com
+E-mail: rafaeleprojects@gmail.com
