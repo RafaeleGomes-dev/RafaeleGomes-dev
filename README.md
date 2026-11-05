@@ -1,3 +1,5 @@
+![Banner](./banner.svg)
+
 # Maria Rafaele Gomes de Araújo
 
 Desenvolvedora de software, cursando Análise e Desenvolvimento de Sistemas (UNIFOR). Desenvolvo sistemas web sob medida — do levantamento de requisitos à entrega em produção — com foco em arquitetura organizada e manutenível.
