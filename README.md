@@ -18,7 +18,7 @@ Organizo os projetos em camadas (domínio, aplicação, infraestrutura), aplican
 
 ## Projetos selecionados
 
-**[CorreDelas](https://github.com/RafaeleGomes-dev/CorreDelas)** — plataforma social de segurança para corredoras, com cadastro/autenticação, registro de atividades físicas e metas de progresso. Monólito modular em Clean Architecture (Node.js/Fastify + React), PostgreSQL via Prisma.
+**[CorreDelas](https://github.com/RafaeleGomes-dev/CorreDelas)** — plataforma social de segurança exclusiva para mulheres que correm, com cadastro/autenticação, registro de atividades físicas e metas de progresso. Monólito modular em Clean Architecture (Node.js/Fastify + React), PostgreSQL via Prisma.
 
 **[docfacil](https://github.com/RafaeleGomes-dev/docfacil)** — SaaS de geração de documentos em PDF a partir de formulários dinâmicos, com conta de usuário, cobrança (Mercado Pago) e painel administrativo. Next.js (App Router) + PostgreSQL/Prisma.
 
@@ -36,5 +36,5 @@ Organizo os projetos em camadas (domínio, aplicação, infraestrutura), aplican
 
 ## Contato
 
-Sistemas sob medida: [rafaele-sistemas.vercel.app](https://rafaele-sistemas.vercel.app)
+Sistemas sob medida: [ver projetos em produção](https://rafaele-sistemas.vercel.app)
 E-mail: rafaeleprojects@gmail.com
